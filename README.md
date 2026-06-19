@@ -24,7 +24,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="400" align="center">
 
-  <img src="https://media.tenor.com/SnHB-c49r38AAAAj/hulk.gif" width="110" />
+  <img src="https://media.tenor.com/SnHB-c49r38AAAAj/hulk.gif" width="105" />
 
 ### Frontend  
 <div align="center">  
@@ -40,7 +40,7 @@
 
 </td><td valign="top" width="400" align="center">
 
-<img src="https://media.tenor.com/2Tg8-zp42zoAAAAi/scientist-doctor.gif" width="45" />
+<img src="https://media.tenor.com/2Tg8-zp42zoAAAAi/scientist-doctor.gif" width="40" />
 
 ### Backend  
 <div align="center">  
