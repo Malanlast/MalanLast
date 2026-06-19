@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://media.tenor.com/SnHB-c49r38AAAAi/hulk.gif" alt="gif" align="center" style="width:100%" />
-</div>  
+  <img src="https://media.tenor.com/SnHB-c49r38AAAAi/hulk.gif" width="200" />
+  <img src="https://media.tenor.com/1mWlirFLS6UAAAAi/popcorn-eating-popcorn.gif" width="200" />
+</div>
   
 
 ### <div align="center">Hi 👋, I'm Shivam Yadav, a passionate B.Tech CSE student and aspiring Full-Stack Developer 👨‍💻 </div>  
