@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://banner2.cleanpng.com/lnd/20240830/h/63a79acce3479859d4cbd708cd9bde.webp" alt="gif" align="center" style="width: 100%" />
+<img src="https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif" alt="gif" align="center" style="width:400" />
 </div>  
   
 
