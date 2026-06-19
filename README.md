@@ -40,7 +40,7 @@
 
 </td><td valign="top" width="400" align="center">
 
-<img src="https://media.tenor.com/2Tg8-zp42zoAAAAi/scientist-doctor.gif" width="55" />
+<img src="https://media.tenor.com/2Tg8-zp42zoAAAAi/scientist-doctor.gif" width="45" />
 
 ### Backend  
 <div align="center">  
