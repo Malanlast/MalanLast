@@ -40,7 +40,7 @@
 
 </td><td valign="top" width="400" align="center">
 
-<img src="https://media.tenor.com/2Tg8-zp42zoAAAAi/scientist-doctor.gif" width="60" />
+<img src="https://media.tenor.com/2Tg8-zp42zoAAAAi/scientist-doctor.gif" width="45" />
 
 ### Backend  
 <div align="center">  
@@ -54,7 +54,7 @@
 
 </td><td valign="top" width="200" align="center">
 
-<img src="https://media.tenor.com/vTB9s7rDbfIAAAAi/16bit-80s.gif" width="100" />
+<img src="https://media.tenor.com/vTB9s7rDbfIAAAAi/16bit-80s.gif" width="125" />
 
 ### DevOps  
 <div align="center">  
