@@ -40,8 +40,7 @@
 
 </td><td valign="top" width="400" align="center">
 
-
-
+<img src="https://media.tenor.com/2Tg8-zp42zoAAAAi/scientist-doctor.gif" width="60" />
 ### Backend  
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70" /></a>  
