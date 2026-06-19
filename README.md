@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.tenor.com/SnHB-c49r38AAAAi/hulk.gif" width="200" />
   <img src="https://media.tenor.com/1mWlirFLS6UAAAAi/popcorn-eating-popcorn.gif" width="200" />
 </div>
   
