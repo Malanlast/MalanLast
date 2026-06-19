@@ -54,7 +54,7 @@
 
 </td><td valign="top" width="200" align="center">
 
-<img src="https://media.tenor.com/vTB9s7rDbfIAAAAi/16bit-80s.gif" width="125" />
+<img src="https://media.tenor.com/vTB9s7rDbfIAAAAi/16bit-80s.gif" width="100" />
 
 ### DevOps  
 <div align="center">  
