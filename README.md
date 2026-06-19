@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://media.tenor.com/HJFF4GpZ9hUAAAAj/spider-man-no-way-home-marvel-studios.gif" width="50%" />
   <img src="https://media.tenor.com/UUIxBIwHkRYAAAAi/were-here-spider-man.gif" width="50%" />
 </div>
   
