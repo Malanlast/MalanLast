@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/19TeG9aK_w4AAAAi/spider-man-web.gif" alt="gif" align="center" style="width:400" />
+<img src="https://media.tenor.com/USrDHoajKg8AAAAi/spider-man-peter-parker.gif" alt="gif" align="center" style="width:400" />
 </div>  
   
 
