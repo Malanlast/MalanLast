@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/nRWCYvILbX8AAAAi/flying-superman.gif" width="50%" />
+  <img src="https://media.tenor.com/nRWCYvILbX8AAAAi/flying-superman.gif" width="250" />
 </div>
   
 
