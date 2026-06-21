@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://media.tenor.com/g_5DbS-M76UAAAAi/flying-superman.gif" width="300" />
+  <img src="https://media.tenor.com/nRWCYvILbX8AAAAi/flying-superman.gif" width="250" />
 </div>
-
-
   
 
 ### <div align="center">Hi 👋, I'm Shivam Yadav, a passionate B.Tech CSE student and aspiring Full-Stack Developer 👨‍💻 </div>  
